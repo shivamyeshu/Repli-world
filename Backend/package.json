@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Its the backend structure of repliworld",
+  "keywords": [
+    "repliworld","shivamyeshu","soulsync","repliworld","rw","human-ai",
+    "clone","human","clone","voice","clone","face","clone",
+    "ai","llm","chat","webrtc","websocket","blackpulse"
+  ],
+  "license": "ISC",
+  "author": "shivamyeshu",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  }
+}
